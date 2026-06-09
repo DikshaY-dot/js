@@ -1,0 +1,13 @@
+    h1{
+        display: flex;
+        text-align: center;
+    }
+    .button{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .start,.stop{
+        padding: 4px;
+        background-color: rgb(150, 236, 236);
+    }
